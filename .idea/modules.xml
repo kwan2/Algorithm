@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_mod/java_mod.iml" filepath="$PROJECT_DIR$/java_mod/java_mod.iml" />
       <module fileurl="file://$PROJECT_DIR$/프로그래머스/lv2/lv2.iml" filepath="$PROJECT_DIR$/프로그래머스/lv2/lv2.iml" />
     </modules>
   </component>
