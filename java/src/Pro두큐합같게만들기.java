@@ -30,7 +30,7 @@ public class Pro두큐합같게만들기 {
         initialSum = new int[3];
         if(!init(queue1, queue2)) return -1;
 
-        while(answer != 2 * queue1.length){
+        while(answer != 4 * queue1.length){
             if(initialSum[0] == initialSum[1])
                 return answer;
             else if(initialSum[0] > initialSum[1]){
