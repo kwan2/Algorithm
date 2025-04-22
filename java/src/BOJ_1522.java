@@ -18,7 +18,7 @@ public class BOJ_1522 {
 
         int n = text.length();
 
-        int aCount = 0, bCount = 0, start = 0, end = n - 1;
+        int aCount = 0, bCount = 0, start = 0, end = aCount - 1;
 
         for(int i = 0; i < n; i++) {
             if(text.charAt(i) == 'a') {
