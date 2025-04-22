@@ -39,7 +39,7 @@ public class BOJ_1522 {
                 bCount++;
             }
 
-            if(text.charAt(start++) == 'a') {
+            if(text.charAt(start++) == 'b') {
                 bCount--;
             }
             answer =  Math.min(answer, bCount);
